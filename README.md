@@ -42,7 +42,7 @@ Install
 <details>
   <summary>Using <a href="https://github.com/folke/lazy.nvim">lazy.nvim</a></summary>
   
-  ```vim
+  ```lua
       {
         "Jsbarkleygriggs/neorg-nabla.nvim",
         dependencies = { "nvim-treesitter/nvim-treesitter", "nvim-neorg/neorg" },
