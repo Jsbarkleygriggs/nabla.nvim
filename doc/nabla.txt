@@ -13,6 +13,7 @@ Requirements
  - A recent neovim version (0.8.0+)
  - nvim-treesitter
  - Latex parser: install with `:TSInstall latex`
+ - Neorg
 
 ======================================================================
 Quickstart                                         *nabla-quickstart*
