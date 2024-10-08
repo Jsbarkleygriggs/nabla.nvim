@@ -66,7 +66,7 @@ Install
         end,
       },
   ```
-<\details>
+</details>
 
 <details>
   <summary>Using the built-in package manager</summary>
