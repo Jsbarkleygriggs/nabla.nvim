@@ -14,7 +14,8 @@ An ASCII math generator from LaTeX equations.
 Requirements
 ------------
 
-* Neovim nightly
+* Neovim
+* Neorg
 * A colorscheme which supports treesitter [see here](https://github.com/rockerBOO/awesome-neovim#tree-sitter-supported-colorscheme)
 * Tree-sitter : [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * Latex parser : Install with `TSInstall latex`.
