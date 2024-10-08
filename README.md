@@ -1,4 +1,4 @@
-nabla.nvim
+neorg-nabla.nvim
 -----------
 
 Take your scentific notes in Neovim.
